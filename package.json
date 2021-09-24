@@ -1,0 +1,23 @@
+{
+  "name": "testboot",
+  "version": "1.0.0",
+  "description": "boot test login, test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hosnol/test_boot.git"
+  },
+  "keywords": [
+    "cypress",
+    "testing"
+  ],
+  "author": "Hosnol Arifin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hosnol/test_boot/issues"
+  },
+  "homepage": "https://github.com/Hosnol/test_boot#readme"
+}
